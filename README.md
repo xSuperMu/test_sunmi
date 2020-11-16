@@ -1,7 +1,3 @@
 # test_sunmi
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
+Flutter project to test printing on SUNMI thermal printer
